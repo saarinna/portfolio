@@ -1,0 +1,16 @@
+Principle point location from the upper left corner (x grows right and y grows down)
+1433.290
+1013.883
+camera constant
+4318.8
+Lens distortion
+corrected from the image
+
+Projection center
+6102.890
+5204.419
+206.241
+3D rotation matrix
+0.330010451	-0.94383772	-0.016231483
+0.943254193	0.330381799	-0.033457342
+0.036940888	-0.004269142	0.999308333

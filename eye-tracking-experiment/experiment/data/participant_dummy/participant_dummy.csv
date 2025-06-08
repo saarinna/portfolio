@@ -1,0 +1,6 @@
+filename,stimulus_duration,response,correct_answer,answer_correctness
+laajoki2a.png,4.117307899985462,B,B,correct
+laajoki3a.png,3.5665934999706224,A,A,correct
+laajoki1b.png,2.7170527999987826,C,B,incorrect
+laajoki4b.png,3.5003545000217855,B,C,incorrect
+Total Experiment Time,35.432702300022356,,,
